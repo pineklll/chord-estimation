@@ -1,0 +1,118 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "chord",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.344657,
+          "value": "N",
+          "confidence": 1.0
+        },
+        {
+          "time": 0.344657,
+          "duration": 2.773188,
+          "value": "G",
+          "confidence": 1.0
+        },
+        {
+          "time": 3.117845,
+          "duration": 2.6819050000000004,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 5.79975,
+          "duration": 5.537959,
+          "value": "G",
+          "confidence": 1.0
+        },
+        {
+          "time": 11.337709,
+          "duration": 2.821225,
+          "value": "D",
+          "confidence": 1.0
+        },
+        {
+          "time": 14.158934,
+          "duration": 2.844444000000001,
+          "value": "G",
+          "confidence": 1.0
+        },
+        {
+          "time": 17.003378,
+          "duration": 2.8444450000000003,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 19.847823,
+          "duration": 1.4164169999999991,
+          "value": "D/5",
+          "confidence": 1.0
+        },
+        {
+          "time": 21.26424,
+          "duration": 1.4164169999999991,
+          "value": "D",
+          "confidence": 1.0
+        },
+        {
+          "time": 22.680657,
+          "duration": 2.902494000000001,
+          "value": "G",
+          "confidence": 1.0
+        },
+        {
+          "time": 25.583151,
+          "duration": 2.9141049999999993,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 28.497256,
+          "duration": 5.700499000000001,
+          "value": "G",
+          "confidence": 1.0
+        },
+        {
+          "time": 34.197755,
+          "duration": 3.8868439999999964,
+          "value": "D",
+          "confidence": 1.0
+        },
+        {
+          "time": 38.084599,
+          "duration": 2.5358090000000004,
+          "value": "N",
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": 40.620408
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 40.620408,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

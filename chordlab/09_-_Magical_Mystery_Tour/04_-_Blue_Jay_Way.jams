@@ -1,0 +1,172 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "chord",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 1.665842,
+          "value": "N",
+          "confidence": 1.0
+        },
+        {
+          "time": 1.665842,
+          "duration": 20.602829999999997,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 22.268672,
+          "duration": 1.9909420000000004,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 24.259614,
+          "duration": 3.912562000000001,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 28.172176,
+          "duration": 2.472926000000001,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 30.645102,
+          "duration": 4.017052,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 34.662154,
+          "duration": 8.881631999999996,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 43.543786,
+          "duration": 5.397508000000002,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 48.941294,
+          "duration": 19.607153999999994,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 68.548448,
+          "duration": 2.000146000000001,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 70.548594,
+          "duration": 3.63392300000001,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 74.182517,
+          "duration": 2.089794999999995,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 76.272312,
+          "duration": 3.5540790000000015,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 79.826391,
+          "duration": 7.835308999999995,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 87.6617,
+          "duration": 23.241264,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 110.902964,
+          "duration": 1.8362869999999987,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 112.739251,
+          "duration": 3.4829930000000076,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 116.222244,
+          "duration": 2.0781860000000023,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 118.30043,
+          "duration": 3.413333999999992,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 121.713764,
+          "duration": 7.407164999999992,
+          "value": "D#:dim7",
+          "confidence": 1.0
+        },
+        {
+          "time": 129.120929,
+          "duration": 4.6442830000000015,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 133.765212,
+          "duration": 98.22724500000001,
+          "value": "C",
+          "confidence": 1.0
+        },
+        {
+          "time": 231.992457,
+          "duration": 4.729175999999995,
+          "value": "N",
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": 236.721633
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 236.721633,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
